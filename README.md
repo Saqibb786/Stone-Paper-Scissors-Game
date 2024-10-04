@@ -6,7 +6,7 @@ This is a fully functional and responsive Rock Paper Scissors game that allows p
 
 ## Live Demo
 
-The game is hosted live on Netlify. You can play it here: [Rock Paper Scissors Game](https://your-netlify-url.com)
+The game is hosted live on Netlify. You can play it here: [Rock Paper Scissors Game](https://stonepaperscissors-by-saqib.netlify.app/)
 
 ## Features
 
@@ -26,7 +26,7 @@ The game is hosted live on Netlify. You can play it here: [Rock Paper Scissors G
 To run the project locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/Saqibb786/Stone-Paper-Scissors-Game.git
 
 ## Contributions
 
